@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>FocusGrain</title>
+        <link>https://focusgrain.com</link>
+        <description>FocusGrain release notes</description>
+        <language>en</language>
+        <item>
+            <title>FocusGrain 1.0.2</title>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>FocusGrain 1.0.2</h3>
+                <ul>
+                    <li>Automatic update support added</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/lowenlowen/focusgrain-releases/releases/download/v1.0.2/FocusGrain-macOS.zip"
+                sparkle:edSignature="JxdsN/LcX8T+dSryCw00v6BMSzhUIMgMdS2yaCqPPNYWX1474gKtdt7MXd5r7GaB39/Cm0Dr7ldfUT6ctP/kDw=="
+                length="9224355"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
